@@ -1,4 +1,5 @@
-# Portfolio# React Project with Vite
+# Portfolio
+# React Project with Vite
 
 This project is a React.js application built using Vite for faster and leaner development experience.
 
@@ -17,3 +18,32 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone <repository-url>
+
+## Navigate to the project directory:
+cd <project-name>
+
+## Install the dependencies:
+### If using npm:
+
+npm install
+
+### Or if using yarn:
+
+yarn install
+
+
+# Running the Development Server
+## To start the development server, run the following command:
+
+### If using npm:
+
+npm run dev
+
+### Or if using yarn
+
+yarn dev
+
+
+
+
+
