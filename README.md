@@ -24,38 +24,38 @@ cd Portfolio
 
 ## Install the dependencies:
 ### If using npm:
-
+```bash
 npm install
-
+```
 ### Or if using yarn:
-
+```bash
 yarn install
-
+```
 
 # Running the Development Server
 ## To start the development server, run the following command:
 
 ### If using npm:
-
+```bash
 npm run dev
-
+```
 ### Or if using yarn
-
+```bash
 yarn dev
-
+```
 ### This will start the application on http://localhost:5173 (or another port if 5173 is unavailable).
 
 # Building for Production
 ## To create an optimized production build, run:
 
 ### If using npm:
-
+```bash
 npm run build
-
+```
 ### Or if using yarn
-
+```bash
 yarn build
-
+```
 # Project Structure
 
 ```bash
