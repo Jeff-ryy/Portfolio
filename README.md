@@ -17,10 +17,10 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Jeff-ryy/Portfolio.git
 
 ## Navigate to the project directory:
-cd <project-name>
+cd Portfolio
 
 ## Install the dependencies:
 ### If using npm:
