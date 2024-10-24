@@ -57,6 +57,8 @@ npm run build
 yarn build
 
 # Project Structure
+
+```bash
 .
 ├── public          # Static files like images, icons, etc.
 ├── src             # Main source folder for React components and logic
