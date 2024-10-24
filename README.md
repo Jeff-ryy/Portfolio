@@ -43,6 +43,32 @@ npm run dev
 
 yarn dev
 
+### This will start the application on http://localhost:5173 (or another port if 5173 is unavailable).
+
+# Building for Production
+## To create an optimized production build, run:
+
+### If using npm:
+
+npm run build
+
+### Or if using yarn
+
+yarn build
+
+# Project Structure
+.
+├── public          # Static files like images, icons, etc.
+├── src             # Main source folder for React components and logic
+│   ├── assets      # Asset files like images, styles, etc.
+│   ├── components  # React components
+│   ├── App.jsx     # Main App component
+│   ├── index.jsx   # Entry point for the React application
+├── .gitignore      # Files and folders to be ignored by git
+├── package.json    # Project metadata and npm/yarn scripts
+├── vite.config.js  # Vite configuration file
+└── README.md       # This file
+
 
 
 
