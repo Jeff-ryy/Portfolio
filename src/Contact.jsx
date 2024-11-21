@@ -28,7 +28,7 @@ const Contact = () => {
     const handleSubmit = async () => {
         console.log("asasasasa")
         try {
-            const response = await axios.post('http://127.0.0.1:8000/api/contact/submit/',
+            const response = await axios.post('http://13.203.74.200:8000/api/contact/submit/',
                 formData,
                 {
                 headers: {
