@@ -1,0 +1,17 @@
+.horizontal-line-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  padding-top: 20px;
+}
+
+.horizontal-line-container::before {
+  content: "";
+  display: block;
+  width: 80%; /* Adjust the width of the line */
+  height: 2px; /* Line thickness */
+  background-color: white; /* Line color */
+  margin-bottom: 10px; /* Space between line and content */
+}
